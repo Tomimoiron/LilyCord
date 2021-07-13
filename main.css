@@ -126,7 +126,8 @@
   position: absolute;
   top: 1px;
   bottom: 1px;
-  left: -10px;
+  /*left: -10px;*/
+  left: 100px;
   width: 0px;
   border: solid;
   border-width: 0 0 0 6px;
