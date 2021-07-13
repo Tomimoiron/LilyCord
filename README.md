@@ -1,10 +1,3 @@
-![Banner](https://nyri4.github.io/LilyPichu/assets/banner.png)
-
----
-
-# LilyPichu
-![Preview](https://nyri4.github.io/LilyPichu/assets/preview.png)
-
 ## 📥 Installation
 
 ### Powercord & Vizality
