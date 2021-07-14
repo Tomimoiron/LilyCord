@@ -1464,7 +1464,7 @@
   z-index: 1;
   pointer-events: none;
 }
-:root .app-1q1i1E::before {
+/*:root .app-1q1i1E::before {
   left: 0;
   top: 0;
   width: 250px;
@@ -1530,7 +1530,7 @@
   height: 40px;
   background: url("https://i.imgur.com/JMoXBIs.png") no-repeat;
   background-size: 100%;
-}
+}*/
 
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
   font-family: "Nunito" !important;
