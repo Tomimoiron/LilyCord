@@ -1457,22 +1457,7 @@
 :root .quickSelectPopout-X1hvgV.regionSelectPopout-p9-0_W {
   background-color: var(--background-secondary-alt);
 }
-/*
-:root .app-2rEoOp::before{
-  content: "";
-  position: fixed;
-  z-index: 1;
-  pointer-events: none;
-}*/
-/*
-:root .app-2rEoOp::before {
-    top: 80px;
-    right: 116px;
-    width: 366px;
-    height: 114px;
-    background: url("") no-repeat;
-    background-size: 100%;
-}*/
+
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
   font-family: "Nunito" !important;
   font-weight: bold !important;
