@@ -1457,13 +1457,13 @@
 :root .quickSelectPopout-X1hvgV.regionSelectPopout-p9-0_W {
   background-color: var(--background-secondary-alt);
 }
-
+/*
 :root .app-2rEoOp::before{
   content: "";
   position: fixed;
   z-index: 1;
   pointer-events: none;
-}
+}*/
 
 :root .app-2rEoOp::before {
     top: 80px;
