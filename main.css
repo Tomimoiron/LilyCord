@@ -1464,7 +1464,7 @@
   z-index: 1;
   pointer-events: none;
 }
-/*:root .app-1q1i1E::before {
+:root .app-1q1i1E::before {
   left: 0;
   top: 0;
   width: 250px;
@@ -1480,7 +1480,7 @@
   height: 40px;
   background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
   background-size: 100%;
-}*/
+}
 :root .app-2rEoOp::before {
     top: 80px;
     right: 116px;
@@ -1497,7 +1497,7 @@
     background: url("https://i.imgur.com/rkAl1z3.png");
     background-size: 100%;
 }
-/*:root .layers-3iHuyZ::before {
+:root .layers-3iHuyZ::before {
   z-index: 0;
   bottom: 75px;
   right: 0;
@@ -1530,7 +1530,7 @@
   height: 40px;
   background: url("https://i.imgur.com/JMoXBIs.png") no-repeat;
   background-size: 100%;
-}*/
+}
 
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
   font-family: "Nunito" !important;
