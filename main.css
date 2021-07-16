@@ -588,7 +588,7 @@
 :root .membersWrap-2h-GB4::before {
   content: "Member list";
   position: absolute;
-  top: -230px;
+  top: -60px;
   z-index: 1;
   width: 100%;
   height: 60px;
